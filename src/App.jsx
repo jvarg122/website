@@ -8,7 +8,6 @@ import Skills from './Skills.jsx'
 import Banner from './banner.jsx'
 import About from './About.jsx'
 import CubeComponent from './CubeComponent'
-import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
