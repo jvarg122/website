@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.a110a734.css",
+    "main.js": "/website/static/js/main.23b550bd.js",
+    "static/js/453.bb828c5d.chunk.js": "/website/static/js/453.bb828c5d.chunk.js",
+    "static/media/featherfriends.png": "/website/static/media/featherfriends.d5fc3414ccaef8737374.png",
+    "static/media/RedditCrawl.png": "/website/static/media/RedditCrawl.60da4d5587f5fba14bee.png",
+    "static/media/me.jpg": "/website/static/media/me.a508c229bb23bdb22eb3.jpg",
+    "static/media/react.png": "/website/static/media/react.d33541a41b630d5b3a54.png",
+    "static/media/cplusplus.png": "/website/static/media/cplusplus.56c1e6a7033c4a255af5.png",
+    "static/media/github-logo.png": "/website/static/media/github-logo.53019990f7ab54de00a9.png",
+    "static/media/HTML.png": "/website/static/media/HTML.907efa9bc4db38660d75.png",
+    "static/media/javascript.png": "/website/static/media/javascript.690b3d8860da76fde3e8.png",
+    "static/media/git.png": "/website/static/media/git.83771e0d6e0cf21187e5.png",
+    "static/media/email.png": "/website/static/media/email.45428a9a27928b810bb4.png",
+    "static/media/python.png": "/website/static/media/python.448fb2a83595fa5c5c8a.png",
+    "static/media/resume.pdf": "/website/static/media/resume.2056558f34f579a0091d.pdf",
+    "static/media/FitHub.png": "/website/static/media/FitHub.ac2382b07f4675914402.png",
+    "static/media/linkedin-logo.png": "/website/static/media/linkedin-logo.65fefa71d6661d4adcbf.png",
+    "static/media/menu.png": "/website/static/media/menu.321dd381627cdcfb0364.png",
+    "index.html": "/website/index.html",
+    "main.a110a734.css.map": "/website/static/css/main.a110a734.css.map",
+    "main.23b550bd.js.map": "/website/static/js/main.23b550bd.js.map",
+    "453.bb828c5d.chunk.js.map": "/website/static/js/453.bb828c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a110a734.css",
+    "static/js/main.23b550bd.js"
+  ]
+}
